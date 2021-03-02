@@ -1,0 +1,11 @@
+{
+    "name": "fetch-proxy ",
+    "version": "0.0.0",
+    "main": "index.js",
+    "author": "no one cares",
+    "license": "ISC",
+    "dependencies": {
+        "http-proxy-agent": "^4.0.1",
+        "node-fetch": "^2.6.1"
+    }
+}
